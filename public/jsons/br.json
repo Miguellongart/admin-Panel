@@ -1,0 +1,164 @@
+[
+    {
+        "subdivision": "state",
+        "code": "BR-AC",
+        "subdivision_name": "Acre",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-AL",
+        "subdivision_name": "Alagoas",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-AP",
+        "subdivision_name": "Amapá",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-AM",
+        "subdivision_name": "Amazonas",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-BA",
+        "subdivision_name": "Bahia",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-CE",
+        "subdivision_name": "Ceará",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "federal district",
+        "code": "BR-DF",
+        "subdivision_name": "Distrito Federal",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-ES",
+        "subdivision_name": "Espírito Santo",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-GO",
+        "subdivision_name": "Goiás",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-MA",
+        "subdivision_name": "Maranhão",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-MT",
+        "subdivision_name": "Mato Grosso",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-MS",
+        "subdivision_name": "Mato Grosso do Sul",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-MG",
+        "subdivision_name": "Minas Gerais",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-PR",
+        "subdivision_name": "Paraná",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-PB",
+        "subdivision_name": "Paraíba",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-PA",
+        "subdivision_name": "Pará",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-PE",
+        "subdivision_name": "Pernambuco",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-PI",
+        "subdivision_name": "Piauí",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-RN",
+        "subdivision_name": "Rio Grande do Norte",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-RS",
+        "subdivision_name": "Rio Grande do Sul",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-RJ",
+        "subdivision_name": "Rio de Janeiro",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-RO",
+        "subdivision_name": "Rondônia",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-RR",
+        "subdivision_name": "Roraima",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-SC",
+        "subdivision_name": "Santa Catarina",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-SE",
+        "subdivision_name": "Sergipe",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-SP",
+        "subdivision_name": "São Paulo",
+        "Local": "pt"
+    },
+    {
+        "subdivision": "state",
+        "code": "BR-TO",
+        "subdivision_name": "Tocantins",
+        "Local": "pt"
+    }
+]

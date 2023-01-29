@@ -1,0 +1,152 @@
+[
+    {
+        "subdivision": "state",
+        "code": "VE-Z",
+        "subdivision_name": "Amazonas",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-B",
+        "subdivision_name": "Anzoátegui",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-C",
+        "subdivision_name": "Apure",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-D",
+        "subdivision_name": "Aragua",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-E",
+        "subdivision_name": "Barinas",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-F",
+        "subdivision_name": "Bolívar",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-G",
+        "subdivision_name": "Carabobo",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-H",
+        "subdivision_name": "Cojedes",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-Y",
+        "subdivision_name": "Delta Amacuro",
+        "Local": "es"
+    },
+    {
+        "subdivision": "federal dependency",
+        "code": "VE-W*",
+        "subdivision_name": "Dependencias Federales",
+        "Local": "es"
+    },
+    {
+        "subdivision": "capital district",
+        "code": "VE-A",
+        "subdivision_name": "Distrito Capital",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-I",
+        "subdivision_name": "Falcón",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-J",
+        "subdivision_name": "Guárico",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-X*",
+        "subdivision_name": "La Guaira",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-K",
+        "subdivision_name": "Lara",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-M",
+        "subdivision_name": "Miranda",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-N",
+        "subdivision_name": "Monagas",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-L",
+        "subdivision_name": "Mérida",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-O",
+        "subdivision_name": "Nueva Esparta",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-P",
+        "subdivision_name": "Portuguesa",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-R",
+        "subdivision_name": "Sucre",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-T",
+        "subdivision_name": "Trujillo",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-S",
+        "subdivision_name": "Táchira",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-U",
+        "subdivision_name": "Yaracuy",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "VE-V",
+        "subdivision_name": "Zulia",
+        "Local": "es"
+    }
+]

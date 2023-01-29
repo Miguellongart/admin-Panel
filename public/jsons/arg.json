@@ -1,0 +1,146 @@
+[
+    {
+        "subdivision": "province",
+        "code": "AR-B",
+        "subdivision_name": "Buenos Aires",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-K",
+        "subdivision_name": "Catamarca",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-H",
+        "subdivision_name": "Chaco",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-U",
+        "subdivision_name": "Chubut",
+        "Local": "es"
+    },
+    {
+        "subdivision": "city",
+        "code": "AR-C",
+        "subdivision_name": "Ciudad Autónoma de Buenos Aires",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-W",
+        "subdivision_name": "Corrientes",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-X",
+        "subdivision_name": "Córdoba",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-E",
+        "subdivision_name": "Entre Ríos",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-P",
+        "subdivision_name": "Formosa",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-Y",
+        "subdivision_name": "Jujuy",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-L",
+        "subdivision_name": "La Pampa",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-F",
+        "subdivision_name": "La Rioja",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-M",
+        "subdivision_name": "Mendoza",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-N",
+        "subdivision_name": "Misiones",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-Q",
+        "subdivision_name": "Neuquén",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-R",
+        "subdivision_name": "Río Negro",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-A",
+        "subdivision_name": "Salta",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-J",
+        "subdivision_name": "San Juan",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-D",
+        "subdivision_name": "San Luis",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-Z",
+        "subdivision_name": "Santa Cruz",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-S",
+        "subdivision_name": "Santa Fe",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-G",
+        "subdivision_name": "Santiago del Estero",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-V",
+        "subdivision_name": "Tierra del Fuego",
+        "Local": "es"
+    },
+    {
+        "subdivision": "province",
+        "code": "AR-T",
+        "subdivision_name": "Tucumán",
+        "Local": "es"
+    }
+]

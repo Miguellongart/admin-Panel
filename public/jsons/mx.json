@@ -1,0 +1,197 @@
+[
+    {
+        "subdivision": "state",
+        "code": "MX-AGU",
+        "subdivision_name": "Aguascalientes",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-BCN",
+        "subdivision_name": "Baja California",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-BCS",
+        "subdivision_name": "Baja California Sur",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-CAM",
+        "subdivision_name": "Campeche",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-CHP",
+        "subdivision_name": "Chiapas",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-CHH",
+        "subdivision_name": "Chihuahua",
+        "Local": "es"
+    },
+    {
+        "subdivision": "federal entity",
+        "code": "MX-CMX",
+        "subdivision_name": "Ciudad de México",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-COA",
+        "subdivision_name": "Coahuila de Zaragoza",
+        "Local": "Coahuila",
+        "Language_code": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-COL",
+        "subdivision_name": "Colima",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-DUR",
+        "subdivision_name": "Durango",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-GUA",
+        "subdivision_name": "Guanajuato",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-GRO",
+        "subdivision_name": "Guerrero",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-HID",
+        "subdivision_name": "Hidalgo",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-JAL",
+        "subdivision_name": "Jalisco",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-MIC",
+        "subdivision_name": "Michoacán de Ocampo",
+        "Local": "Michoacán",
+        "Language_code": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-MOR",
+        "subdivision_name": "Morelos",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-MEX",
+        "subdivision_name": "México",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-NAY",
+        "subdivision_name": "Nayarit",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-NLE",
+        "subdivision_name": "Nuevo León",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-OAX",
+        "subdivision_name": "Oaxaca",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-PUE",
+        "subdivision_name": "Puebla",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-QUE",
+        "subdivision_name": "Querétaro",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-ROO",
+        "subdivision_name": "Quintana Roo",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-SLP",
+        "subdivision_name": "San Luis Potosí",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-SIN",
+        "subdivision_name": "Sinaloa",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-SON",
+        "subdivision_name": "Sonora",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-TAB",
+        "subdivision_name": "Tabasco",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-TAM",
+        "subdivision_name": "Tamaulipas",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-TLA",
+        "subdivision_name": "Tlaxcala",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-VER",
+        "subdivision_name": "Veracruz de Ignacio de la Llave",
+        "Local": "Veracruz",
+        "Language_code": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-YUC",
+        "subdivision_name": "Yucatán",
+        "Local": "es"
+    },
+    {
+        "subdivision": "state",
+        "code": "MX-ZAC",
+        "subdivision_name": "Zacatecas",
+        "Local": "es"
+    }
+]

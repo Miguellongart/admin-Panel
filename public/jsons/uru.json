@@ -1,0 +1,116 @@
+[
+    {
+        "subdivision": "department",
+        "code": "UY-AR*",
+        "subdivision_name": "Artigas",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-CA*",
+        "subdivision_name": "Canelones",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-CL*",
+        "subdivision_name": "Cerro Largo",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-CO*",
+        "subdivision_name": "Colonia",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-DU*",
+        "subdivision_name": "Durazno",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-FS*",
+        "subdivision_name": "Flores",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-FD*",
+        "subdivision_name": "Florida",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-LA*",
+        "subdivision_name": "Lavalleja",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-MA*",
+        "subdivision_name": "Maldonado",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-MO*",
+        "subdivision_name": "Montevideo",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-PA*",
+        "subdivision_name": "Paysandú",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-RV*",
+        "subdivision_name": "Rivera",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-RO*",
+        "subdivision_name": "Rocha",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-RN*",
+        "subdivision_name": "Río Negro",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-SA*",
+        "subdivision_name": "Salto",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-SJ*",
+        "subdivision_name": "San José",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-SO*",
+        "subdivision_name": "Soriano",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-TA*",
+        "subdivision_name": "Tacuarembó",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "UY-TT*",
+        "subdivision_name": "Treinta y Tres",
+        "Local": "es"
+    }
+]

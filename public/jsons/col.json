@@ -1,0 +1,203 @@
+[
+    {
+        "subdivision": "department",
+        "code": "CO-AMA*",
+        "subdivision_name": "Amazonas",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-ANT*",
+        "subdivision_name": "Antioquia",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-ARA*",
+        "subdivision_name": "Arauca",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-ATL*",
+        "subdivision_name": "Atlántico",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-BOL*",
+        "subdivision_name": "Bolívar",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-BOY*",
+        "subdivision_name": "Boyacá",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-CAL*",
+        "subdivision_name": "Caldas",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-CAQ*",
+        "subdivision_name": "Caquetá",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-CAS*",
+        "subdivision_name": "Casanare",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-CAU*",
+        "subdivision_name": "Cauca",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-CES*",
+        "subdivision_name": "Cesar",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-CHO*",
+        "subdivision_name": "Chocó",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-CUN*",
+        "subdivision_name": "Cundinamarca",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-COR*",
+        "subdivision_name": "Córdoba",
+        "Local": "es"
+    },
+    {
+        "subdivision": "capital district",
+        "code": "CO-DC*",
+        "subdivision_name": "Distrito Capital de Bogotá",
+        "Local": "Distrito Capital",
+        "Language_code": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-GUA*",
+        "subdivision_name": "Guainía",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-GUV*",
+        "subdivision_name": "Guaviare",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-HUI*",
+        "subdivision_name": "Huila",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-LAG*",
+        "subdivision_name": "La Guajira",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-MAG*",
+        "subdivision_name": "Magdalena",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-MET*",
+        "subdivision_name": "Meta",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-NAR*",
+        "subdivision_name": "Nariño",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-NSA*",
+        "subdivision_name": "Norte de Santander",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-PUT*",
+        "subdivision_name": "Putumayo",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-QUI*",
+        "subdivision_name": "Quindío",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-RIS*",
+        "subdivision_name": "Risaralda",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-SAP*",
+        "subdivision_name": "San Andrés, Providencia y Santa Catalina",
+        "Local": "San Andrés",
+        "Language_code": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-SAN*",
+        "subdivision_name": "Santander",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-SUC*",
+        "subdivision_name": "Sucre",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-TOL*",
+        "subdivision_name": "Tolima",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-VAC*",
+        "subdivision_name": "Valle del Cauca",
+        "Local": "Valle",
+        "Language_code": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-VAU*",
+        "subdivision_name": "Vaupés",
+        "Local": "es"
+    },
+    {
+        "subdivision": "department",
+        "code": "CO-VID*",
+        "subdivision_name": "Vichada",
+        "Local": "es"
+    }
+]
